@@ -1,0 +1,7 @@
+System Design Document - Version 2.0
+
+1. Pump P-105 replaces Pump P-101 for transferring water to the cooling tower.
+2. Valve V-201 is changed to normally closed for safety improvements.
+3. Temperature sensor T-301 continues to monitor the reactor chamber.
+4. Control logic shuts Valve V-201 if T-301 exceeds 110°C (stricter limit).
+5. The PLC program is now set to run in Auto Mode for production.

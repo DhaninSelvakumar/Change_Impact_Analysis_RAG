@@ -1,0 +1,7 @@
+System Design Document - Version 1.0
+
+1. Pump P-101 is used for transferring water to the cooling tower.
+2. Valve V-201 is normally open for continuous flow.
+3. Temperature sensor T-301 monitors the reactor chamber.
+4. Control logic shuts Valve V-201 if T-301 exceeds 120°C.
+5. The PLC program is set to run in Manual Mode for testing.
